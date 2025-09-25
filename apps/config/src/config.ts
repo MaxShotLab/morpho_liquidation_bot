@@ -83,7 +83,7 @@ export const chainConfigs: Record<number, Config> = {
     chain: arbitrum,
     morpho: {
       address: "0x6c247b1F6182318877311737BaC0844bAa518F5e",
-      startBlock: 309704083,
+      startBlock: 296446593 ,
     },
     adaptiveCurveIrm: {
       address: "0x66F30587FB8D4206918deb78ecA7d5eBbafD06DA",
